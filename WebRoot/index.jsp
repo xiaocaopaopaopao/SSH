@@ -23,6 +23,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
+  <h1>这是我第一个SSH项目</h1>
     <form action="saveUserAction">
     username:<input name="user.name" type="text"><br>
     age:<input name="user.age" type="text"><br>
